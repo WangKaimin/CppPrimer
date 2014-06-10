@@ -33,6 +33,8 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="E07.35.hpp" />
+		<Unit filename="E07.43.45.hpp" />
+		<Unit filename="ETest.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
